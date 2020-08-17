@@ -1,4 +1,4 @@
-# Vehicle-Name-Plate-Detection-and-OCR
+# Vehicle-License-Plate-Detection-and-OCR
 
 ## Background
 
